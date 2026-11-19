@@ -42,3 +42,12 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Supabase local
+supabase/.branches
+supabase/.temp
+.env
+.env.*
+!.env.example
+*service-account*.json
+google-services.json
